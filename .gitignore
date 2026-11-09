@@ -1,0 +1,32 @@
+### Maven ###
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+### Eclipse ###
+.classpath
+.project
+.settings/
+bin/
+
+### VS Code ###
+.vscode/
+
+### Environment ###
+.env
+
+### Runtime ###
+logs/
+uploads/
+
+### macOS ###
+.DS_Store
+
+### Claude ###
+.claude/
